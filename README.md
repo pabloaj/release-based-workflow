@@ -23,6 +23,8 @@ For more  [HTML5 Game Development](http://www.html5gamedevelopment.org) resource
 * [HTML5 Game Engines](http://www.html5gamedevelopment.org/html5-engines)
 GitHub Pages site.
 
-versuib 1.0.02
+versuib 1.0.03
+
+copa test
 
 
