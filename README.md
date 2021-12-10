@@ -24,5 +24,7 @@ For more  [HTML5 Game Development](http://www.html5gamedevelopment.org) resource
 
 
 GitHub Pages site.
+www.google.com
+
 fix version 1.03.2
 
